@@ -68,6 +68,6 @@ body{
 @media (max-width: 1024px){
     .imagenes-container{
         flex-direction: column;
-        height: 250vh;
+        height: 260vh;
     }
 }
